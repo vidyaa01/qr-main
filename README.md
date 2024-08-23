@@ -15,7 +15,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -44,9 +43,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - centering a div
 - how to overcome the problem of 10k unstaged changes.
 
-To see how you can add code snippets, see below:
 
-
+Some of the code I like:
 ```css
 .card{
       width:210px;
@@ -76,5 +74,5 @@ To see how you can add code snippets, see below:
 
 - Linkedin - (www.linkedin.com/in/vidya-jaggi)
 - Frontend Mentor - (https://www.frontendmentor.io/profile/vidyaa01)
-- 
+
 
